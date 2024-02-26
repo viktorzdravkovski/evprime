@@ -1,0 +1,64 @@
+{
+  "events": [
+    {
+      "title": "JDM Car Show",
+      "image": "https://www.motortrend.com/uploads/2022/05/Rs-Day-gtr-line-up.jpg",
+      "date": "20.02.2024",
+      "location": "Brazil",
+      "description": "Where does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+      "id": "96624845-00c3-4f79-9e8c-78bcfca76960"
+    },
+    {
+      "title": "Billiards Night",
+      "image": "https://images.squarespace-cdn.com/content/v1/53606594e4b032825e5783cf/1398837210676-NZUK60E76LZUSI8MDSI0/Billiards-Triangle-hd-wallpapers.jpg?format=2500w",
+      "date": "21.01.2024",
+      "location": "Gran Club",
+      "description": "Where does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+      "id": "58074010-473e-4643-ab3b-fa969d79f15d"
+    },
+    {
+      "title": "Ishigaki Island Festival",
+      "image": "https://visitokinawajapan.com/wp-content/uploads/2021/10/ev163_01_ishigaki-island-festival.jpg",
+      "date": "23.06.2024",
+      "location": "Ishigaki",
+      "description": "Where does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+      "id": "5fe7802c-7cdb-44e9-b8ed-2919ad4bdba6"
+    },
+    {
+      "title": "New Year's Carnival",
+      "image": "https://cityfurnish.com/blog/wp-content/uploads/2023/03/firework-display-singapore-min.jpg",
+      "date": "30.12.2023",
+      "location": "Brazil",
+      "description": "Where does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+      "id": "8bea411c-cf4f-4e29-841e-4e9e2377b543"
+    },
+    {
+      "title": "Nature Festival",
+      "image": "https://media.cntraveller.com/photos/611bf0b8f6bd8f17556db5e4/16:9/w_1920%2Cc_limit/gettyimages-1146431497.jpg",
+      "date": "22.03.2024",
+      "location": "DummyLocation",
+      "description": "Where does it come from? Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.",
+      "id": "bd7aeb06-abd5-43cd-a9d8-fac9eb9d1aae"
+    },
+    {
+      "title": "EDM Concert",
+      "image": "https://images.shiksha.com/mediadata/images/articles/1583747992phpzaxKKK.jpeg",
+      "date": "01.03.2023",
+      "location": "Electric Club",
+      "description": "Where does it come from? Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.",
+      "id": "d8324529-2b8e-40a5-b65d-38dac774a574"
+    }
+  ],
+  "users": [
+    {
+      "email": "test@test.com",
+      "password": "$2a$12$A/sQn0EpJeE8XmAGlpSxvOMqYZa93QhTdWOZHOBYD5IaE/rB1hAhe",
+      "id": "affb5695-a8ae-4ba9-9c7a-e198b1a6ea69"
+    },
+    {
+      "email": "viksa@test.com",
+      "password": "$2a$12$cX0iYzhjZxXGpCLMp0Yfre.NV8qCcIl83NftQmsJxFOf2PnezwumW",
+      "id": "574183d7-76d5-401f-a32a-41f8206cc261"
+    }
+  ]
+}
