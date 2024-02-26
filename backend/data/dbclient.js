@@ -8,4 +8,6 @@ const client = new Client({
   database: 'evprime'
 });
 
+client.connect();
+
 exports.dbClient = client;

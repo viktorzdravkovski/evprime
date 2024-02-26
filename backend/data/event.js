@@ -2,13 +2,28 @@ const { v4: generateId } = require('uuid');
 
 const { NotFoundError } = require('../util/errors');
 const { readData, writeData } = require('./util');
+const { dbClient } = require('../data/dbclient');
 
-async function getAll() {
-  const storedData = await readData();
-  if (!storedData.events) {
-    throw new NotFoundError('Could not find any events.');
-  }
-  return storedData.events;
+function getAll() {
+  // const storedData = await readData();
+  const storedData = dbClient.connect().then(() => {
+    dbClient.query("SELECT * FROM \"Events\"", (err, result) => {
+      if (err) {
+        console.error('Could not fetch events', err);
+      } else {
+        console.log('Successfully fetched events.', result.rows);
+      }
+
+      dbClient.end().then(() => {
+        console.log('Connection closed.');
+        return result.rows;
+      }).catch((err) => {
+        console.error('Error closing connection', err);
+      });
+    })
+  });
+
+  return storedData;
 }
 
 async function get(id) {
