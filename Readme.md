@@ -12,4 +12,4 @@
 <h3>Setting up the project</h3>
 <p>The project comes with 2 modules, the backend part written in NodeJS with Express, and the frontend written in ReactJS.</p>
 <p>All you have to do is run 'npm install' and 'npm start' in both modules and you are good to go.</p>
-<h6>Note: The frontend runs on port 3000, while the backend runs on port 8080.</h6>
+<h5>Note: The frontend runs on port 3000, while the backend runs on port 8080.</h5>
